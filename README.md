@@ -1,0 +1,3 @@
+(PRO-C26: MASTERCHEF JUNIOR)
+
+Choco-Lava cake is a type of chocolate cake. Melted Chocolate is put in the inner layer of the cake...We can also add toppings on the cake to make it tastier. Choco-Lava Cake is a very unique kind of cake as we see, usaually in other cakes we dont have a filling..A choco-lava cake can be used for many occasions like a birthday party or, an anniversary or maybe a festival (Christmas for example)...You will find the recipe and ingredients for the cake in this project.
